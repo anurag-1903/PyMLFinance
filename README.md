@@ -14,10 +14,7 @@ It showcases Python, Machine Learning, and Finance courses through a clean UI.
 - Dash
 - Dash Bootstrap Components
 
-## How to Run
-pip install -r requirements.txt  
-python app.py
-
 ## Author
 Anurag Choudhury
+
 
